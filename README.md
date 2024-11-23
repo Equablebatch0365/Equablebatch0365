@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Equablebatch0365
-- 👀 I’m interested in codin, listening to music and reading books.
+- 👀 I’m interested in coding, listening to music and reading books.
 - 🌱 I’m currently learning Front End & Back end Languages.
 - 💞️ I’m looking to collaborate on Python, HTML, CSS & Javascript.
 - 😄 Pronouns: she/hers

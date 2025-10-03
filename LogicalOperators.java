@@ -24,7 +24,20 @@ public class LogicalOperators
 
         if (!(d > e))
         {
-            System.out.println("d is NOT greater than e");
+            System.out.println("d is NOT greater than e"); //NOT ! from logical operators
+        }
+
+        boolean isLoggedIn = true;
+        boolean isAdmin = false;
+        int securityLevel = 7; //1 = highest
+
+        if (isLoggedIn && (isAdmin || securityLevel <= 2))
+        {
+            System.out.println("Access granted");
+        }
+        else
+        {
+            System.out.println("Access denied");
         }
 
     }

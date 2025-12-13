@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Equablebatch0365
 - 👀 I’m interested in coding, listening to music and reading books.
-- 🌱 I’m currently learning Front End & Back end Languages.
--  I’m looking to collaborate on C#, Java, HTML & CSS.
+- 🌱 I’m currently learning Front End Languages.
+-  I’m looking to collaborate on Java, HTML & CSS.
 - 😄 Pronouns: she/hers
 - ⚡ Fun fact: Did you know the first computer programmer was a woman? Ada Lovelace, in the 1800s, wrote the first algorithm intended for a machine, long before computers even existed.
 

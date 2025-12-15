@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals: <li>Learning beyond Front End Development.</li><li>Publishing my first tech blog</li>Acquiring certifications<li></li><br>🎲 Fun fact: 🎨 I believe good design is just as important as good code.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals: <li>Learning beyond Front End Development.</li><li>Publishing my first tech blog</li><li>Acquiring certifications</li>
+  <br>🎲 Fun fact: 🎨 I believe good design is just as important as good code.</p>
 
 ###
 

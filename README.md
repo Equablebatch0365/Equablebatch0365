@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @Equablebatch0365
-- 👀 I’m interested in coding, listening to music and reading books.
-- 🌱 I’m currently learning Front End Languages.
--  I’m looking to collaborate on Java, HTML & CSS.
-- 😄 Pronouns: she/hers
-- ⚡ Fun fact: Did you know the first computer programmer was a woman? Ada Lovelace, in the 1800s, wrote the first algorithm intended for a machine, long before computers even existed.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-Equablebatch0365/Equablebatch0365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is Mologadi Modiba and I'm an aspiring Front End Developer, from Johannesburg.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals: <li>learning beyond Front End Development.<ul></ul></li><br>🎲 Fun fact: 🎨 I believe good design is just as important as good code.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
